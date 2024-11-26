@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  outline: none !important;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+  background: #dddddd;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #005eff;
+  border-radius: 0px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #dddddd;
+}
+
+@layer utilities {
+  .page {
+    @apply mx-auto;
+    @apply max-w-7xl;
+    @apply space-y-6;
+    @apply px-6;
+  }
+}
