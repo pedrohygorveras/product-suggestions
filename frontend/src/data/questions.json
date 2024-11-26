@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "question": "Qual é o seu objetivo principal?",
+    "type": "multiple",
+    "options": [
+      {
+        "text": "Criar ou melhorar estratégias de marketing digital",
+        "tags": ["Ferramentas de Marketing"]
+      },
+      {
+        "text": "Otimizar o gerenciamento de leads e vendas",
+        "tags": ["CRM e Vendas"]
+      },
+      {
+        "text": "Criar páginas de captura (Landing Pages)",
+        "tags": ["Landing Page"]
+      },
+      {
+        "text": "Melhorar campanhas de email marketing",
+        "tags": ["Email Marketing"]
+      },
+      {
+        "text": "Melhorar a presença em mídias sociais",
+        "tags": ["Mídias Sociais"]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Você gostaria de ferramentas de análise ou acompanhamento de resultados?",
+    "type": "single",
+    "options": [
+      {
+        "text": "Sim, gostaria de ferramentas de análise e monitoramento.",
+        "tags": ["SEO", "Análise e Monitoramento"]
+      },
+      {
+        "text": "Não, não preciso de ferramentas de análise.",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Você trabalha com criação de conteúdo?",
+    "type": "single",
+    "options": [
+      {
+        "text": "Sim, foco em estratégias de SEO.",
+        "tags": ["SEO"]
+      },
+      {
+        "text": "Sim, foco em marketing de conteúdo.",
+        "tags": ["Marketing de Conteúdo"]
+      },
+      {
+        "text": "Não trabalho com criação de conteúdo.",
+        "tags": ["Estratégia em Marketing Digital"]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Seu público-alvo inclui clientes em redes sociais?",
+    "type": "single",
+    "options": [
+      {
+        "text": "Sim, meu público está nas redes sociais.",
+        "tags": ["Mídias Sociais"]
+      },
+      {
+        "text": "Não, meu público não está nas redes sociais.",
+        "tags": []
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Você representa uma agência de marketing?",
+    "type": "single",
+    "options": [
+      {
+        "text": "Sim, represento uma agência de marketing.",
+        "tags": ["Para Agências"]
+      },
+      {
+        "text": "Não, não represento uma agência de marketing.",
+        "tags": []
+      }
+    ]
+  }
+]
