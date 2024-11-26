@@ -50,7 +50,7 @@ Siga os passos abaixo para instalar as dependências, construir e rodar o projet
 
 Após a execução dos comandos, a aplicação será iniciada nos seguintes endereços:
 
-- **Backend**: [http://localhost:3002](http://localhost:3002)
+- **Backend**: [http://localhost:3009](http://localhost:3009)
 - **Frontend**: [http://localhost:3003](http://localhost:3003)
 
 ## 📂 Estrutura dos Diretórios

@@ -31,7 +31,7 @@ Para iniciar o servidor backend, execute o comando abaixo:
 npm run start
 ```
 
-Por padrão, o backend estará disponível em [http://localhost:3002](http://localhost:3002).
+Por padrão, o backend estará disponível em [http://localhost:3009](http://localhost:3009).
 
 ## 📜 Scripts Disponíveis
 
