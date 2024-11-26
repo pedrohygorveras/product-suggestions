@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "Backend for product recommendation",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "start": "json-server --watch db.json --port 3002",
+    "start:backend": "json-server --watch db.json --port 3002"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
