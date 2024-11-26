@@ -1,0 +1,260 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "thumbnail": "https://api-blog.rdstation.com/wp-content/uploads/2024/04/gerador-de-copy.png",
+      "link": "https://www.rdstation.com/ferramentas/inteligencia-artificial/reescrever-textos/?utm_campaign=br-inb-rdsm-blog-novos_leads-cta_pls_portal_ferramentas",
+      "category_title": "Ferramentas de Marketing",
+      "category_url": "https://www.rdstation.com/blog/ferramentas-de-marketing",
+      "title": "Reescrita de Conteúdo com IA"
+    },
+    {
+      "id": 2,
+      "thumbnail": "https://api-blog.rdstation.com/wp-content/uploads/2024/04/image-1-1.png",
+      "link": "https://www.rdstation.com/ferramentas/inteligencia-artificial/gerador-de-pautas-para-blog/?utm_campaign=br-inb-rdsm-blog-novos_leads-cta_pls_portal_ferramentas",
+      "category_title": "Ferramentas de Marketing",
+      "category_url": "https://www.rdstation.com/blog/ferramentas-de-marketing",
+      "title": "Gerador de Pautas para Blog"
+    },
+    {
+      "id": 3,
+      "thumbnail": "https://api-blog.rdstation.com/wp-content/uploads/2024/04/gerador-de-pitch-de-vendas.png",
+      "link": "https://www.rdstation.com/ferramentas/inteligencia-artificial/gerador-de-pitch-de-vendas/?utm_campaign=br-inb-rdsm-blog-novos_leads-cta_pls_portal_ferramentas",
+      "category_title": "Ferramentas de Marketing",
+      "category_url": "https://www.rdstation.com/blog/ferramentas-de-marketing",
+      "title": "Gerador de Pitch de Vendas"
+    },
+    {
+      "id": 4,
+      "thumbnail": "https://api-blog.rdstation.com/wp-content/uploads/2024/04/gerador-de-copy-anuncio.png",
+      "link": "https://www.rdstation.com/ferramentas/inteligencia-artificial/gerador-de-copy-para-anuncio/?utm_campaign=br-inb-rdsm-blog-novos_leads-cta_pls_portal_ferramentas",
+      "category_title": "Ferramentas de Marketing",
+      "category_url": "https://www.rdstation.com/blog/ferramentas-de-marketing",
+      "title": "Gerador de Copy para Anúncio"
+    },
+    {
+      "id": 5,
+      "thumbnail": "https://api-blog.rdstation.com/wp-content/uploads/2024/04/gerador-de-copy-email.png",
+      "link": "https://www.rdstation.com/ferramentas/inteligencia-artificial/gerador-de-copy-para-email/?utm_campaign=br-inb-rdsm-blog-novos_leads-cta_pls_portal_ferramentas",
+      "category_title": "Ferramentas de Marketing",
+      "category_url": "https://www.rdstation.com/blog/ferramentas-de-marketing",
+      "title": "Gerador de Copy para E-mail"
+    },
+    {
+      "id": 6,
+      "thumbnail": "https://api-blog.rdstation.com/wp-content/uploads/2024/04/gerador-de-legenda-para-instagram.png",
+      "link": "https://www.rdstation.com/ferramentas/inteligencia-artificial/gerador-de-legenda-para-instagram/?utm_campaign=br-inb-rdsm-blog-novos_leads-cta_pls_portal_ferramentas",
+      "category_title": "Ferramentas de Marketing",
+      "category_url": "https://www.rdstation.com/blog/ferramentas-de-marketing",
+      "title": "Gerador de Legenda para Instagram"
+    },
+    {
+      "id": 7,
+      "thumbnail": "https://api-blog.rdstation.com/wp-content/uploads/2023/07/capa-lps.png",
+      "link": "https://www.rdstation.com/produtos/marketing/conversao/landing-page/templates/",
+      "category_title": "Landing Page",
+      "category_url": "https://www.rdstation.com/blog/landing-page",
+      "title": "Templates de Landing Pages"
+    },
+    {
+      "id": 8,
+      "thumbnail": "https://api-blog.rdstation.com/wp-content/uploads/2023/06/Gerador-de-Funil-de-Vendas-RD-Station-1-1.png",
+      "link": "https://www.rdstation.com/ferramentas/funil-de-vendas/",
+      "category_title": "CRM e Vendas",
+      "category_url": "https://www.rdstation.com/blog/crm-e-vendas",
+      "title": "Gerador de Funil de Vendas"
+    },
+    {
+      "id": 9,
+      "thumbnail": "https://api-blog.rdstation.com/wp-content/uploads/2023/06/botao-de-whatsapp-no-seu-site.png",
+      "link": "https://www.rdstation.com/ferramentas/botao-de-whatsapp-gratuito/",
+      "category_title": "",
+      "category_url": "",
+      "title": "Botão de WhatsApp em suas páginas"
+    },
+    {
+      "id": 10,
+      "thumbnail": "https://api-blog.rdstation.com/wp-content/uploads/2022/12/OG-geradordeform.png",
+      "link": "https://materiais.resultadosdigitais.com.br/gerador-de-formularios-para-blog",
+      "category_title": "Inbound Marketing",
+      "category_url": "https://www.rdstation.com/blog/inbound-marketing",
+      "title": "Gerador de formulário para blogs"
+    },
+    {
+      "id": 11,
+      "thumbnail": "https://api-blog.rdstation.com/wp-content/uploads/2022/12/materiais-thumb-720x545-2.png",
+      "link": "https://www.rdstation.com/ferramentas/botao-de-whatsapp-gratuito/",
+      "category_title": "Fidelização e Relacionamento",
+      "category_url": "https://www.rdstation.com/blog/fidelizacao-e-relacionamento",
+      "title": "Gerador de botão de WhatsApp"
+    },
+    {
+      "id": 12,
+      "thumbnail": "https://api-blog.rdstation.com/wp-content/uploads/2022/12/og.quizSEO-e1669908472571.png",
+      "link": "http://quizdomarketingdigital.com.br/seo/",
+      "category_title": "SEO",
+      "category_url": "https://www.rdstation.com/blog/seo",
+      "title": "Quiz do SEO"
+    },
+    {
+      "id": 13,
+      "thumbnail": "https://api-blog.rdstation.com/wp-content/uploads/2022/11/og-1.png",
+      "link": "http://quizdomarketingdigital.com.br/inbound-para-agencias/",
+      "category_title": "Para agências",
+      "category_url": "https://www.rdstation.com/blog/para-agencias",
+      "title": "Quiz do Inbound Marketing Para Agências"
+    },
+    {
+      "id": 14,
+      "thumbnail": "https://api-blog.rdstation.com/wp-content/uploads/2022/11/og-5.png",
+      "link": "http://quizdomarketingdigital.com.br/marketing-de-conteudo/",
+      "category_title": "Marketing de Conteúdo",
+      "category_url": "https://www.rdstation.com/blog/marketing-de-conteudo",
+      "title": "Quiz do Marketing de Conteúdo"
+    },
+    {
+      "id": 15,
+      "thumbnail": "https://api-blog.rdstation.com/wp-content/uploads/2022/11/promote-e1668686308450.png",
+      "link": "http://quizdomarketingdigital.com.br/",
+      "category_title": "Marketing Digital",
+      "category_url": "https://www.rdstation.com/blog/marketing-digital",
+      "title": "Quiz do Marketing Digital"
+    },
+    {
+      "id": 16,
+      "thumbnail": "https://api-blog.rdstation.com/wp-content/uploads/2022/12/ferramenta-funil-de-vendas.png",
+      "link": "https://www.rdstation.com/ferramentas/definir-etapas-do-funil-de-vendas/",
+      "category_title": "CRM e Ferramentas",
+      "category_url": "https://www.rdstation.com/blog/crm-e-ferramentas",
+      "title": "Criador de Funil de Vendas"
+    },
+    {
+      "id": 17,
+      "thumbnail": "https://api-blog.rdstation.com/wp-content/uploads/2022/12/og-e1669908374827.png",
+      "link": "https://resultadosdigitais.com.br/ferramentas/gerador-de-link-whatsapp/",
+      "category_title": "Fidelização e Relacionamento",
+      "category_url": "https://www.rdstation.com/blog/fidelizacao-e-relacionamento",
+      "title": "Gerador de Link de WhatsApp"
+    },
+    {
+      "id": 18,
+      "thumbnail": "https://api-blog.rdstation.com/wp-content/uploads/2022/12/qr_code-pt_br-e1670441259345.jpeg",
+      "link": "https://www.nuvemshop.com.br/ferramentas/gerador-qrcode",
+      "category_title": "Marketing Digital",
+      "category_url": "https://www.rdstation.com/blog/marketing-digital",
+      "title": "Gerador de QR Code"
+    },
+    {
+      "id": 19,
+      "thumbnail": "https://api-blog.rdstation.com/wp-content/uploads/2022/06/precifc.png",
+      "link": "https://interactive.rockcontent.com/calculadora-precificacao-para-agencias",
+      "category_title": "Para agências",
+      "category_url": "https://www.rdstation.com/blog/para-agencias",
+      "title": "Calculadora de Precificação para Agências de Marketing Digital"
+    },
+    {
+      "id": 20,
+      "thumbnail": "https://api-blog.rdstation.com/wp-content/uploads/2022/05/Thumb-para-pagina-de-materiais-ricos-720x545-1.png",
+      "link": "https://www.rdstation.com/ferramentas/gerador-de-link-whatsapp/",
+      "category_title": "Mídias Sociais",
+      "category_url": "https://www.rdstation.com/blog/midias-sociais",
+      "title": "Gerador de Link WhatsApp"
+    },
+    {
+      "id": 21,
+      "thumbnail": "https://api-blog.rdstation.com/wp-content/uploads/2023/03/thumb-rd-station-marketing.png",
+      "link": "https://app.rdstation.com.br/signup?trial_origin=cta_pls_portal_trilha_redes_sociais&utm_source=materiais&utm_medium=organic&utm_campaign=br-inb-rdsm-materiais-hr_novos_leads-cta_pls_portal_link_trilhas_redes_sociais",
+      "category_title": "Marketing",
+      "category_url": "https://www.rdstation.com/blog/marketing",
+      "title": "Teste grátis do RD Station Marketing para agendar posts e criar seu link da Bio"
+    },
+    {
+      "id": 22,
+      "thumbnail": "https://api-blog.rdstation.com/wp-content/uploads/2022/03/Materiais-Thumb-para-pagina-de-materiais-ricos-720x545-1.png",
+      "link": "https://www.rdstation.com/ferramentas/metricas-email-marketing/",
+      "category_title": "Email Marketing",
+      "category_url": "https://www.rdstation.com/blog/email-marketing",
+      "title": "Benchmarking de métricas de Email Marketing"
+    },
+    {
+      "id": 23,
+      "thumbnail": "https://api-blog.rdstation.com/wp-content/uploads/2020/05/pagina_materiais_720x545-ferramenta_calculadora_roi-pt_br-ic-v1.png",
+      "link": "https://www.rdstation.com/ferramentas/calculadora-do-roi-marketing-digital/",
+      "category_title": "Gestão",
+      "category_url": "https://www.rdstation.com/blog/gestao",
+      "title": "Calcule o Retorno do seu investimento em Marketing Digital (ROI)"
+    },
+    {
+      "id": 24,
+      "thumbnail": "https://api-blog.rdstation.com/wp-content/uploads/2019/10/pagina_materiais_720x545-nivel_de_maturidade-em_marketing_e_vendas-pt_br-ts-v1.png",
+      "link": "https://resultadosdigitais.com.br/ferramentas/maturidade-de-marketing-e-vendas/",
+      "category_title": "Estratégia em Marketing Digital",
+      "category_url": "https://www.rdstation.com/blog/estrategia-em-marketing-digital",
+      "title": "Nível de maturidade em Marketing Digital e Vendas"
+    },
+    {
+      "id": 25,
+      "thumbnail": "https://api-blog.rdstation.com/wp-content/uploads/2018/10/Materiais-Thumbs-para-Materiais-da-TYP-720x545-1.png",
+      "link": "https://www.rdstation.com/ferramentas/analise-de-site/",
+      "category_title": "Análise e Monitoramento",
+      "category_url": "https://www.rdstation.com/blog/analise-e-monitoramento",
+      "title": "Análise de Site"
+    },
+    {
+      "id": 26,
+      "thumbnail": "https://api-blog.rdstation.com/wp-content/uploads/2018/10/materiais-gratuitos.png",
+      "link": "https://resultadosdigitais.com.br/ferramentas/construcao-de-briefing",
+      "category_title": "Para agências",
+      "category_url": "https://www.rdstation.com/blog/para-agencias",
+      "title": "Ferramenta para construção de briefing"
+    },
+    {
+      "id": 27,
+      "thumbnail": "https://api-blog.rdstation.com/wp-content/uploads/2018/08/materiais-gratuitos.png",
+      "link": "https://www.rdstation.com/ferramentas/assinatura-de-email/",
+      "category_title": "Email Marketing",
+      "category_url": "https://www.rdstation.com/blog/email-marketing",
+      "title": "Gerador de Assinatura de Email Profissional"
+    },
+    {
+      "id": 28,
+      "thumbnail": "https://api-blog.rdstation.com/wp-content/uploads/2016/11/Pasted-image-at-2016_11_24-02_38-PM.png",
+      "link": "https://www.rdstation.com/ferramentas/benchmarking-do-funil-de-vendas/",
+      "category_title": "CRM e Ferramentas",
+      "category_url": "https://www.rdstation.com/blog/crm-e-ferramentas",
+      "title": "Benchmarking do Funil de Vendas"
+    },
+    {
+      "id": 29,
+      "thumbnail": "https://api-blog.rdstation.com/wp-content/uploads/2016/08/pg_materiais.png",
+      "link": "https://ferramentas.resultadosdigitais.com.br/diagnostico-marketing-vendas/",
+      "category_title": "Gestão",
+      "category_url": "https://www.rdstation.com/blog/gestao",
+      "title": "Diagnóstico de Marketing e Vendas"
+    },
+    {
+      "id": 30,
+      "thumbnail": "https://api-blog.rdstation.com/wp-content/uploads/2016/07/tool_materiais.png",
+      "link": "https://ferramentas.resultadosdigitais.com.br/ferramenta-jornada/",
+      "category_title": "Estratégia em Marketing Digital",
+      "category_url": "https://www.rdstation.com/blog/estrategia-em-marketing-digital",
+      "title": "Gerador de Jornada de Compra"
+    },
+    {
+      "id": 31,
+      "thumbnail": "https://api-blog.rdstation.com/wp-content/uploads/2015/09/Screenshot-2015-09-24-15.57.44.png",
+      "link": "https://ferramentas.resultadosdigitais.com.br/calculadora-teste-ab/",
+      "category_title": "Estratégia em Marketing Digital",
+      "category_url": "https://www.rdstation.com/blog/estrategia-em-marketing-digital",
+      "title": "Calculadora de Teste A/B"
+    },
+    {
+      "id": 32,
+      "thumbnail": "https://api-blog.rdstation.com/wp-content/uploads/2015/06/materiais-1.png",
+      "link": "http://geradordepersonas.com.br/",
+      "category_title": "Inbound Marketing",
+      "category_url": "https://www.rdstation.com/blog/inbound-marketing",
+      "title": "O Fantástico Gerador de Personas"
+    }
+  ]
+}
