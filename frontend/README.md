@@ -70,3 +70,17 @@ Isso executará o **Jest**, que é responsável por verificar se todas as funcio
 - **Daisy UI**: Extensão do Tailwind CSS que facilita a criação de componentes de UI com estilos prontos.
 - **Jest**: Ferramenta para testes unitários, garantindo a qualidade e a robustez do código.
 - **ESLint**: Ferramenta para garantir a qualidade e consistência do código.
+
+## 📝Design
+
+![Modelo ](../docs/1.png)
+
+![Modelo ](../docs/3.png)
+
+![Modelo ](../docs/4.png)
+
+![Modelo ](../docs/5.png)
+
+![Modelo ](../docs/6.png)
+
+![Modelo ](../docs/7.png)

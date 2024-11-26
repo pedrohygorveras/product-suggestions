@@ -8,6 +8,12 @@
 
 Este projeto é uma aplicação de recomendação de produtos desenvolvida como parte do desafio técnico da RD Station. Ele é composto por um backend (usando JSON Server) e um frontend (em React.js com Tailwind CSS e Daisy UI).
 
+## 📝Modo escuro disponível
+
+![Modelo 1](./docs/1.png)
+
+![Modelo 2](./docs/3.png)
+
 ## 🏗 Estrutura do Projeto
 
 - **backend/**: Contém a API que fornece os dados dos produtos, implementada utilizando JSON Server.
