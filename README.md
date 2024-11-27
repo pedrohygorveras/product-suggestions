@@ -2,7 +2,7 @@
 
 ## 🌐 Links do Projeto
 
-- **Aplicação Front-end**: [Acesse a aplicação aqui](https://rdstation.pedrohygorveras.ip-ddns.com)
+- **Aplicação Front-end**: [Acesse a aplicação aqui](https://api-rdstation.pedrohygorveras.ip-ddns.com)
 
 ## 📄 Descrição do Projeto
 
