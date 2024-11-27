@@ -51,7 +51,9 @@ const mapAnswersToTags = (answers: Record<number, string[]>): string[] => {
 };
 
 const fetchProducts = async (): Promise<Product[]> => {
-  const response = await fetch("https://3.143.224.130:3009/products");
+  const response = await fetch(
+    "https://api-rdstation.pedrohygorveras.ip-ddns.com/api/products",
+  );
 
   if (!response.ok) {
     throw new Error("Erro ao buscar os dados.");
